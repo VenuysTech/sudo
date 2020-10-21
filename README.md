@@ -99,13 +99,6 @@ The solution will be printed to the _standard output_ in the following format:
 
 * It is recommended that the internal representation of the game be a w[9][9][9] of integers, containing only 0 (false) and 1 (true) for each candidate.
 
-### Advisor
-
-* Author: Prof. Dr. Ruben Carlo Benante
-* Email: rcb@upe.br
-* Date: 2020-10-17
-* Licence: GNU/GPL v2.0
-
 ### References
 
 * Mathematical discussion:
